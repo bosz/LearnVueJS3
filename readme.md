@@ -19,8 +19,8 @@ My journey through learning how to use Vue JS 3 framework to build blazing fast 
 - Use api to record todo list item
 
 ### Screenshots
-- ![Alt text](screenshots/add-todo.png?raw=true "Add new todo item")
-- ![Alt text](screenshots/todo-list.png?raw=true "List of todo items")
+- Add new todo item: ![Alt text](screenshots/add-todo.png?raw=true "Add new todo item")
+- Show list of todo items: ![Alt text](screenshots/todo-list.png?raw=true "List of todo items")
 
 
 # Profile
